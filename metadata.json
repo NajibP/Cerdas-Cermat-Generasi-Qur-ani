@@ -1,0 +1,6 @@
+{
+  "name": "Cerdas Cermat: Generasi Qur'ani",
+  "description": "Permainan kuis interaktif Islami bertema petualangan oleh TPA Al-Munawwarah Pramuka karya Ustadz Farhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
